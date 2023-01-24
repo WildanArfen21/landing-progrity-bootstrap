@@ -151,7 +151,22 @@ ul {
     }
 
 }
-
+.navbar{
+    list-style-type: none;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;;
+    height: 100px;
+}
+.container
+{
+    position: relative;
+    height: 100%;
+    width: 50%;
+}
 
 
 
