@@ -163,9 +163,13 @@ ul {
 }
 .container
 {
-    position: relative;
+    position:static;
     height: 100%;
     width: 50%;
+}
+.aset6{
+    width: 140px;
+    height: 30px;
 }
 
 
