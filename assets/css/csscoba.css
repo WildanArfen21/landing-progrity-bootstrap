@@ -36,20 +36,22 @@ color:rgb(25, 142, 51)
     width: 600px;
     height: 400px;
     position:relative;
-    margin-right: 3px;
+    
     margin-left: 3px;
     
 }
 .card-title1{
     float:left;
+    font-size: 50px;
     
 }
 .card-text1{
     float:left;
 }
 .aset2{
-    width: 140px;
-    height: 30px;
+    width: 250px;
+    height: 50px;
+    padding-left: 100px;
 }
 .aset4{
     width: 600px;
@@ -85,19 +87,23 @@ ul {
     margin-bottom: 35px;
     font-weight: 500;
     position: relative;
+    ;
+}
+.footer-col h3 {
+    font-size: 15px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    font-weight: 400;
+    position: relative;
+    padding-left: 30px;
 }
 
 
-.footer-col h4::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -10;
-    background-color: #e91e63;
-    height: 2px;
-    box-sizing: border-box;
-    width: 50px;
-}
+
+
+
+
 
 .footer-col ul li:not(:last-child) {
     margin-bottom: 10px;
@@ -108,7 +114,7 @@ ul {
     text-transform: capitalize;
     color: #ffffff;
     text-decoration: none;
-    font-weight: 300;
+    font-weight:300;
     color: #ffffff;
     display: block;
     transition: all 0.3s ease;
@@ -116,7 +122,7 @@ ul {
 
 .footer-col ul li a:hover {
     color: #020202;
-    padding-left: 8px;
+    
 }
 
 .footer-col .social-links a {
@@ -135,12 +141,16 @@ ul {
 .footer-col .social-links a:hover {
     color: #24262b;
     background-color: #ffffff;
+    
 }
+    
+
 
 @media(max-width: 767px) {
     .footer-col {
         width: 50%;
         margin-bottom: 30px;
+        
     }
 
 }
@@ -148,7 +158,10 @@ ul {
 @media(max-width: 574px) {
     .footer-col {
         width: 100%;
-    }
+        justify-items: center;
+     }
+     
+     
 
 }
 .navbar{
@@ -166,10 +179,18 @@ ul {
     position:static;
     height: 100%;
     width: 50%;
+    padding-left: 110px;
+    padding-top: 120px;
+    padding-right: 110px;
 }
 .aset6{
-    width: 140px;
-    height: 30px;
+    width: 350px;
+    height: 70px;
+    padding-left: 110px;
+}
+.navigasi{
+    padding-left: 1050px;
+    position: inherit;
 }
 
 
