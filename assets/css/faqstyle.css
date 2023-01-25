@@ -10,6 +10,7 @@
     background-color: #ffffff;
     padding-right: 300px;
     padding-left: 300px;
+    padding-top: 200px
 }
 .aset2{
     width: 250px;
@@ -132,4 +133,11 @@ ul {
     width: 100%;
     z-index: 1;
     height: 100px;
+}
+.judul1{
+    text-align: center;
+    font-size:26px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
 }
