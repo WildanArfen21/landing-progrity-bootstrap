@@ -107,3 +107,11 @@ ul {
     height: 70px;
     padding-left: 110px;
 }
+.container{
+    display: grid;
+    padding-top: 100px;
+}
+.gambar{
+    width: 400px;
+    height: 400px;
+}
