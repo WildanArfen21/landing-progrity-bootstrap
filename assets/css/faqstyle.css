@@ -10,7 +10,8 @@
     background-color: #ffffff;
     padding-right: 300px;
     padding-left: 300px;
-    padding-top: 200px
+    padding-top: 200px;
+    padding-bottom: 50px;
 }
 .aset2{
     width: 250px;
@@ -23,7 +24,7 @@
     padding-left: 110px;
     
 }.footer {
-    background-image: linear-gradient(#22577a, #38a3a5);
+    background-image:radial-gradient(#17b3bf, #1498a1);
     padding: 70px 0;
     position: relative;
     bottom: 0;
@@ -140,4 +141,21 @@ ul {
     padding-top: 20px;
     padding-bottom: 20px;
     
+}
+.judul2{
+    text-align: center;
+    font-size:26px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.judul3{
+    text-align: center;
+    font-size:26px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.btn{
+    color:#17b3bf;
 }
