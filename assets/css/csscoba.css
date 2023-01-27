@@ -3,12 +3,7 @@
     margin: 0px;
     padding: 0px;
 }
-.container {
-    min-width: 100%;
-    margin: auto;
-    position: relative;
-    background-color: #ffffff;
-}
+
 
 h3{
     text-align: center;
@@ -174,11 +169,10 @@ ul {
     z-index: 1;;
     height: 100px;
 }
-.container
-{
+.container{
     position:static;
     height: 100%;
-    width: 50%;
+    min-width: 100%;
     padding-left: 110px;
     padding-top: 120px;
     padding-right: 110px;
