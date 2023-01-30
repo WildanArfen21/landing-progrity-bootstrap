@@ -109,3 +109,29 @@ ul {
     height: 70px;
     padding-left: 110px;
 }
+
+.container{
+    position:static;
+    height: 100%;
+    min-width: 100%;
+    padding-left: 110px;
+    padding-top: 120px;
+    padding-right: 110px;
+}
+    
+    
+
+.gambar{
+    width: 400px;
+    height: 200px;
+    
+}
+.satu{
+    font-size: 40px;
+    font-weight: 500;
+    
+}
+.dua{
+    font-size: 20px;
+    
+}
