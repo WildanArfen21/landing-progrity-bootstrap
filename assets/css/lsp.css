@@ -135,3 +135,21 @@ ul {
     font-size: 20px;
     
 }
+.gambar2{
+    width: 450px;
+    height: 450px;
+}
+.program{
+    font-size:30px;
+}
+.card-text{
+    font-size: small;
+    color:rgb(179, 177, 177);
+    font-weight: 400;
+}
+.card-title{
+    font-size: 20px;
+}
+.btn{
+    background-color: #17b3bf;
+}
