@@ -143,9 +143,10 @@ ul {
     font-size:30px;
 }
 .card-text{
-    font-size: small;
+    font-size: 13px;
     color:rgb(179, 177, 177);
     font-weight: 400;
+    
 }
 .card-title{
     font-size: 20px;
@@ -169,3 +170,30 @@ ul {
 .bg-content .row {
     padding-top: 50px;
 }
+
+.skemaimg{
+    width: 300px;
+    display: block;
+    margin: auto;
+    
+}
+
+
+.skema .list {
+    padding: 15px;
+    border: 1px solid rgb(148, 148, 148);
+    border-radius: 10px;
+}
+.nomor5{
+    padding-top: 5px;
+    padding-left: 10px;
+    font-weight:400;
+}
+.logonomor{
+    width: 30px;
+    height: 35px;
+}
+.skema{
+    font-size: 40px;
+}
+
