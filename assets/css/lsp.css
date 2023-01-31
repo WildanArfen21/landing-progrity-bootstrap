@@ -110,7 +110,7 @@ ul {
     padding-left: 110px;
 }
 
-.container{
+ section .container{
     position:static;
     height: 100%;
     min-width: 100%;
@@ -158,4 +158,14 @@ ul {
 }
 .isisertifikat{
     font-size: 17px;
+}
+
+.bg-content {
+    height: 500px;
+    width: 100%;
+    background-color: #d8fef4;
+}
+
+.bg-content .row {
+    padding-top: 50px;
 }
