@@ -6,7 +6,7 @@
 .container {
     min-width: 100%;
     margin: auto;
-    position:static;
+    position: relative;
     background-color: #ffffff;
     padding-right: 300px;
     padding-left: 300px;
@@ -122,8 +122,7 @@ ul {
     list-style: none;
 }
 .navigasi{
-    padding-left: 1050px;
-    position: inherit;
+    padding-left: 784px;
     
 }
 .navbar{
@@ -133,7 +132,7 @@ ul {
     top: 0;
     position: fixed;
     width: 100%;
-    z-index: 1;;
+    z-index: 1;
     height: 100px;
 }
 .judul1{

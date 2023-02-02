@@ -9,8 +9,7 @@
     padding-left: 100px;
 }
 .navigasi{
-    padding-left: 1050px;
-    position: inherit;
+    padding-left: 784px;
     
     
 }
@@ -27,8 +26,7 @@
 
 .footer {
     background-image:radial-gradient(#17b3bf, #1498a1);
-    padding-top: 50px;
-    padding-bottom: 15px;
+    padding: 70px 0;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -37,7 +35,7 @@
 
 .footer-col {
     width: 25%;
-    
+    padding: 0 15px;
 }
 
 .footer-col h4 {
@@ -56,7 +54,7 @@
     margin-bottom: 35px;
     font-weight: 400;
     position: relative;
-    
+    padding-left: 30px;
 }
 
 
@@ -107,13 +105,11 @@ ul {
     list-style: none;
 }
 .aset6{
-    width: 200px;
+    width: 350px;
     height: 70px;
-    border: 10px solid white;
-    border-radius: 10px;
-
+    padding-left: 110px;
 }
-.atas{
+.container{
     font-size: 18px;
     margin-top: 100px;
     padding-left: 120px;
@@ -124,20 +120,4 @@ ul {
 .judul{
     margin-top: 100px;
     text-align: center;
-    background-color: #17b3bf;
-    padding-bottom: 40px;
-    padding-top: 40px;
-    color: white;
-    border: 10px solid #17b3bf;
-    border-bottom-right-radius: 50px;
-    border-bottom-left-radius: 50px;
-}
-.bawah{
-    border-bottom: 1px solid white;
-}
-.copyright{
-    text-align: center;
-    padding-top: 15px;
-    color: white;
-    font-weight:normal;
 }
