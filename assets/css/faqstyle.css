@@ -122,7 +122,8 @@ ul {
     list-style: none;
 }
 .navigasi{
-    padding-left: 784px;
+    padding-left: 1050px;
+    position: inherit;
     
 }
 .navbar{
