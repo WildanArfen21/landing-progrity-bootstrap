@@ -64,7 +64,8 @@ ul {
 
 .footer {
     background-image:radial-gradient(#17b3bf, #1498a1);
-    padding: 70px 0;
+    padding-top: 70px;
+    padding-bottom: 15px;
     position: relative;
     bottom: 0;
     width: 100%;
@@ -91,7 +92,7 @@ ul {
     margin-bottom: 35px;
     font-weight: 400;
     position: relative;
-    padding-left: 30px;
+    
 }
 
 
@@ -169,7 +170,7 @@ ul {
     z-index: 1;;
     height: 100px;
 }
-.container{
+.atas{
     position:static;
     height: 100%;
     min-width: 100%;
@@ -178,14 +179,25 @@ ul {
     padding-right: 110px;
 }
 .aset6{
-    width: 350px;
-    height: 70px;
-    padding-left: 110px;
+    width: 210px;
+    height: 80px;
+    border: 10px solid white;
+    border-radius: 10px;
     
 }
 .navigasi{
     padding-left: 1050px;
     position: inherit;
+}
+.copyright{
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+    font-weight: normal;
+    font-size: 16px;
+}
+.bawah{
+    border-bottom: 2px solid white;
 }
 
 
