@@ -1,0 +1,25 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+.aset2{
+    width: 250px;
+    height: 50px;
+    padding-left: 100px;
+}
+.navigasi{
+    padding-left: 784px;
+    
+    
+}
+.navbar{
+    list-style-type: none;
+    background-color: rgb(255, 255, 255);
+    overflow:hidden;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    height: 100px;
+}
